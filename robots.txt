@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://helixoriginator.github.io/bharat-rights-twin/sitemap.xml
+
+# Optional crawl delay (safe default)
+Crawl-delay: 5
